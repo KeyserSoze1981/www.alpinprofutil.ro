@@ -16,10 +16,6 @@ header {
   border-bottom: 1px solid black;
 }
 .logo-container {
-  color: #585858;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   cursor: pointer;
 }
 .nav-links {
