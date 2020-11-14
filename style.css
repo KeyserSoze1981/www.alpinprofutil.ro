@@ -6,7 +6,6 @@
 body {
   font-family: "Poppins", sans-serif;
   background-color: whitesmoke;
-  max-height: 90%;
 }
 header {
   display: flex;
@@ -38,7 +37,6 @@ nav {
   display: flexbox;
   width: 90%;
   margin: auto;
-  min-height: 85vh;
   align-items: center;
   color: #585858;
   padding-top: 55px;
@@ -48,13 +46,14 @@ nav {
   padding-left: 350px;
 }
 .cover img {
-  height: 50vh;
+  height: 45vh;
   width: 115vh;
   padding-left: 105px;
   padding-top: 30px;
 }
 h4 {
-  padding-top: 20px;
+  padding-top: 5px;
+  padding-bottom: 15px;
   padding-left: 400px;
 }
 footer {
