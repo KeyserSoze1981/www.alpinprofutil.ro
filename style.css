@@ -6,6 +6,7 @@
 body {
   font-family: "Poppins", sans-serif;
   background-color: whitesmoke;
+  color: #585858;
 }
 header {
   display: flex;
@@ -34,7 +35,6 @@ nav {
   width: 90%;
   margin: auto;
   align-items: center;
-  color: #585858;
   padding-top: 55px;
 }
 .cover img {
@@ -53,7 +53,6 @@ footer {
   width: 90%;
   height: 7vh;
   border-top: solid 1px black;
-  color: #585858;
   align-items: center;
 }
 .footer-list {
@@ -67,13 +66,9 @@ h2 {
   padding-left: 450px;
   padding-top: 50px;
 }
-.servicii {
-  color: #585858;
-}
 .servicii-list {
   margin: auto;
   width: 95%;
-  color: #585858;
 }
 .column {
   float: left;
