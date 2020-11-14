@@ -39,14 +39,12 @@ nav {
 }
 .cover img {
   height: 45vh;
-  width: 115vh;
-  padding-left: 105px;
+  width: 130vh;
   padding-top: 30px;
 }
 h4 {
   padding-top: 5px;
   padding-bottom: 15px;
-  padding-left: 400px;
 }
 footer {
   margin: auto;
