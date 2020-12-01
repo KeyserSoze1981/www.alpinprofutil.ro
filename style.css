@@ -4,14 +4,14 @@
   box-sizing: border-box;
 }
 body.home {
-  background-image: url(./img/main-cover.jpg);
+  background-image: url(./img/main\ 2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 body {
   font-family: "Roboto", sans-serif;
-  color: rgb(49, 43, 43);
+  color:rgb(49, 43, 43);
   background-color: whitesmoke;
 }
 header {
@@ -35,12 +35,15 @@ nav {
 }
 .nav-link {
   text-decoration: none;
-  color: rgb(49, 43, 43);
+  color: rgb(49, 43, 43)
 }
 .presentation {
   max-width: 90%;
   margin: auto;
   padding-top: 35%;
+}
+h3{
+  padding-left: 45px;
 }
 .footer-list {
   display: flex;
@@ -58,12 +61,11 @@ nav {
   padding-top: 50px;
   font-weight: 800;
 }
-.footer-list-contact {
+.footer-list-contact{
   display: flex;
   list-style: none;
   justify-content: space-evenly;
-  margin: auto;
-  padding-top: 100px;
+  padding-top: 10%;
   font-weight: 800;
 }
 input[type="text"],
@@ -77,6 +79,7 @@ textarea {
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
+  color: rgb(49, 43, 43) ;
 }
 input[type="submit"] {
   background-color: #4caf50;
@@ -93,13 +96,16 @@ input[type="submit"] {
 .servicii-list {
   margin: auto;
   width: 95%;
+  color: rgb(49, 43, 43) ;
 }
 .descriere,
 .contact-form {
   background-color: whitesmoke;
+  color: rgb(49, 43, 43) ;
 }
 .column {
   float: left;
   width: 33.33%;
   padding: 15px;
+  color: rgb(49, 43, 43) ;
 }
