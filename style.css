@@ -8,6 +8,7 @@ body.home {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: center center;
 }
 body {
   font-family: "Roboto", sans-serif;
